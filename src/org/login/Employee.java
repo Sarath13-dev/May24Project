@@ -27,7 +27,12 @@ public class Employee {
 		System.out.println(e.a);
 		System.out.println("Work Done by Dev Employee 1");
 		System.out.println("Development Work");
+		System.out.println("Work done by QA");
+		System.out.println("Tester");
+
 		
+		
+
 	}
 	
 	
